@@ -1,0 +1,74 @@
+{
+    "button": [
+        {
+            "name": "品牌介绍",
+            "sub_button": [
+                {
+                    "type": "click",
+                    "name": "品牌介绍",
+                    "key": "brand"
+                },
+                {
+                    "type": "click",
+                    "name": "产品分类",
+                    "key": "category"
+                },
+                {
+                    "type": "click",
+                    "name": "努力时间轴",
+                    "key": "timeline"
+                },
+                {
+                    "type": "click",
+                    "name": "TEST",
+                    "key": "mtest"
+                }
+            ]
+        },
+        {
+            "name": "最新活动",
+            "sub_button": [
+                {
+                    "type": "click",
+                    "name": "节日优惠",
+                    "key": "discount"
+                },
+                {
+                    "type": "click",
+                    "name": "用户测评",
+                    "key": "assess"
+                },
+                {
+                    "type": "click",
+                    "name": "礼品方案",
+                    "key": "gifts"
+                }
+            ]
+        },
+        {
+            "name": "我的园艺",
+            "sub_button": [
+                {
+                    "type": "click",
+                    "name": "园艺心得",
+                    "key": "gain"
+                },
+                {
+                    "type": "click",
+                    "name": "花友平台",
+                    "key": "platform"
+                },
+                {
+                    "type": "click",
+                    "name": "售后反馈",
+                    "key": "feedback"
+                },
+                {
+                    "type": "click",
+                    "name": "联系我们",
+                    "key": "contact"
+                }
+            ]
+        }
+    ]
+}
